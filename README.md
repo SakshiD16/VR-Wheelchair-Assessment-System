@@ -11,6 +11,7 @@ A collaborative senior design project that developed an immersive, physics-based
 - Built in collaboration with **Sunshine Communities (Maumee, OH)** and faculty at the **University of Toledo**
 - Team of engineering seniors specializing in **Computer Science**, **Electrical Engineering**, and **Human-Centered Design**
 - Developed to serve individuals with varying physical and cognitive abilities seeking motorized wheelchair access
+  ![VR Special Demo](Docs/SpecialDemo.jpg)
 
 ---
 
@@ -99,10 +100,12 @@ A collaborative senior design project that developed an immersive, physics-based
 ## 📚 Documentation & Visuals
 
 This repo includes:
-- System Architecture Diagram *(Docs/SystemDiagram.png)*
-- Photos of Head-Array Controller *(Docs/HeadArray.jpg)*
-- Screenshots of VR Environments *(Docs/VRScene.png)*
-- Demo Clip *(optional GIF or YouTube link)*
+- System Architecture Diagram ![SystemDiagram](Docs/SystemDiagram.png)
+- Photos of Head-Array Controller ![HeadArrayController](Docs/HeadArrayPrototype.jpg)
+- Screenshots of VR Environments ![VR Scene](Docs/DraftFloorPlan.png)
+  ![VR Scene 2](Docs/FinalHallway1.png)
+  ![VR Scene 3](Docs/EntryHallway.png)
+- Demo Clip ![Democlip](Docs/MicrosoftTeams-video.mp4)
 
 > All media shared complies with IP constraints and is sanitized of proprietary elements.
 
