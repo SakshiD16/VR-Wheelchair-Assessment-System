@@ -2,7 +2,7 @@
 
 > ⚠️ *Due to institutional IP ownership by the University of Toledo and Sunshine Communities, this repository contains only documentation and visual references. Source code, Unity assets, and software IP are not publicly available.*
 
-A collaborative senior design project that developed an immersive, physics-based VR training and assessment system for powered wheelchair users. The simulation enables users to practice real-world mobility skills using a joystick or adaptive head-array controller, while collecting quantifiable performance metrics through a custom-built assessment module.
+A collaborative senior design project that developed an immersive, physics-based Virtual Reality (VR) training and assessment system for powered wheelchair users. The simulation enables users to practice real-world mobility skills using a joystick or adaptive head-array controller, while collecting quantifiable performance metrics through a custom-built assessment module.
 
 ---
 
