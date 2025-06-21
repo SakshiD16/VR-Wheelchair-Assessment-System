@@ -104,7 +104,7 @@ A collaborative senior design project that developed an immersive, physics-based
 
 This repo includes:
 - System Architecture Diagram ![SystemDiagram](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs/System%20Design%20Diagram.png)
-- Photos of Head-Array Controller
+- Photos of Head-Array Controller prototype and test results
   ![HeadArrayController](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/HeadArrayPrototype.jpg)
   ![HeadArrayController1](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/HeadArrayTestResults.png)
 - Screenshots of VR Environments ![VR Scene](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/EntryHallway.png)
