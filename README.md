@@ -6,16 +6,17 @@ A collaborative senior design project that developed an immersive, physics-based
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 - Built in collaboration with **Sunshine Communities (Maumee, OH)** and faculty at the **University of Toledo**
 - Team of engineering seniors specializing in **Computer Science**, **Electrical Engineering**, and **Human-Centered Design**
 - Developed to serve individuals with varying physical and cognitive abilities seeking motorized wheelchair access
   ![VR Special Demo](Docs/SpecialDemo.jpg)
+  ![VR Final Demo](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs/Sakshi-Dhumma-Nick-Hemmert-Evan-Palmer-Simran-Shekhar-Tika-KC-Kelsey-Garner-Jeffrey-Walter-04172025-1003.JPG)
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Create a **realistic VR environment** for motorized wheelchair assessment
 2. Enable **multiple control inputs** – joystick & custom head array
@@ -25,7 +26,7 @@ A collaborative senior design project that developed an immersive, physics-based
 
 ---
 
-## 🧩 My Role (≈45% Contribution – Hardware, Software, Rendering, and Deployment)
+## My Role (≈45% Contribution – Hardware, Software, Rendering, and Deployment)
 
 **Hardware Integration & Prototyping**
 - Co-developed a custom **ESP32-based head-array controller** using pressure sensors and a battery-powered circuit
@@ -42,9 +43,11 @@ A collaborative senior design project that developed an immersive, physics-based
 - Participated in hardware-software integration under rapid prototyping constraints
 - Conducted technical and usability testing alongside therapists and wheelchair users to validate input accuracy and simulation realism
 
+  ![MyDemo](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/WTOLNews.jpg)
+
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Category               | Tools / Frameworks                                       |
 |------------------------|----------------------------------------------------------|
@@ -56,18 +59,18 @@ A collaborative senior design project that developed an immersive, physics-based
 
 ---
 
-## 🖼 Sample Environments
+## Sample Environments
 
 - Indoor hallways with narrow turns  
 - Static obstacles like ramps, doors, cones  
 - Dynamic NPCs simulating pedestrian traffic  
 - Wayfinding tasks with audio-visual feedback  
 
-> 🎞️ Demo and images available upon request for employers under NDA or review.
+> Demo and images available upon request for employers under NDA or review.
 
 ---
 
-## 🛡️ Challenges & Solutions
+## Challenges & Solutions
 
 | Challenge                           | Solution                                                                 |
 |------------------------------------|--------------------------------------------------------------------------|
@@ -88,7 +91,7 @@ A collaborative senior design project that developed an immersive, physics-based
 
 ---
 
-## 🔮 Future Expansion
+## Future Expansion
 
 - Support for sip-and-puff or eye-tracking inputs  
 - Outdoor and transportation simulation modules  
@@ -97,21 +100,21 @@ A collaborative senior design project that developed an immersive, physics-based
 
 ---
 
-## 📚 Documentation & Visuals
+## Documentation & Visuals
 
 This repo includes:
-- System Architecture Diagram ![SystemDiagram](Docs/SystemDiagram.png)
-- Photos of Head-Array Controller ![HeadArrayController](Docs/HeadArrayPrototype.jpg)
-- Screenshots of VR Environments ![VR Scene](Docs/DraftFloorPlan.png)
-  ![VR Scene 2](Docs/FinalHallway1.png)
-  ![VR Scene 3](Docs/EntryHallway.png)
-- Demo Clip ![Democlip](Docs/MicrosoftTeams-video.mp4)
+- System Architecture Diagram ![SystemDiagram](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs/System%20Design%20Diagram.png)
+- Photos of Head-Array Controller  ![HeadArrayController](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/HeadArrayPrototype.jpg)
+  ![HeadArrayController1](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/HeadArrayTestResults.png)
+- Screenshots of VR Environments ![VR Scene](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/EntryHallway.png)
+  ![VR Scene 2](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/DraftFloorPlan.png)
+  ![VR Scene 3](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/EarlyDev.png)
 
 > All media shared complies with IP constraints and is sanitized of proprietary elements.
 
 ---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 - **Partner Organization**: [Sunshine Communities, Maumee, OH](https://sunshine.org)  
 - **University**: University of Toledo, Department of Engineering  
@@ -120,7 +123,7 @@ This repo includes:
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Sakshi Dhumma**  
 Dual B.S. in Computer Science & Electrical Engineering  
@@ -129,7 +132,7 @@ Dual B.S. in Computer Science & Electrical Engineering
 
 ---
 
-## 📄 Disclaimer
+## Disclaimer
 
 This case study is for documentation and professional showcase purposes only. All proprietary code and digital assets are the intellectual property of the University of Toledo and Sunshine Communities.
 
