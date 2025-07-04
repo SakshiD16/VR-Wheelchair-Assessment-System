@@ -5,6 +5,8 @@
 A collaborative senior design project that developed an immersive, physics-based Virtual Reality (VR) training and assessment system for powered wheelchair users. The simulation enables users to practice real-world mobility skills using a joystick or adaptive head-array controller, while collecting quantifiable performance metrics through a custom-built assessment module.
 
 ---
+## Project test and Demo Videos
+https://github.com/user-attachments/assets/f13ba79b-2e8f-45ac-9863-38d0f3c7de5f
 
 ## Project Overview
 
