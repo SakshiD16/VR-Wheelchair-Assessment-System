@@ -13,7 +13,7 @@ A collaborative senior design project that developed an immersive, physics-based
 - Developed to serve individuals with varying physical and cognitive abilities seeking motorized wheelchair access
   ![VR Special Demo](Docs/SpecialDemo.jpg)
   ![VR Final Demo](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs/Sakshi-Dhumma-Nick-Hemmert-Evan-Palmer-Simran-Shekhar-Tika-KC-Kelsey-Garner-Jeffrey-Walter-04172025-1003.JPG)
-
+  [Utoledo News-](https://news.utoledo.edu/index.php/04_23_2025/engineering-seniors-bring-virtual-reality-solution-to-sunshine-communities)
 ---
 
 ## Objectives
@@ -44,7 +44,7 @@ A collaborative senior design project that developed an immersive, physics-based
 - Conducted technical and usability testing alongside therapists and wheelchair users to validate input accuracy and simulation realism
 
   ![MyDemo](https://github.com/SakshiD16/VR-Wheelchair-Assessment-System/blob/main/Docs%20/WTOLNews.jpg)
-
+[WTOL 11 News-](https://www.youtube.com/watch?v=0r2s5nZJdGE)
 ---
 
 ## Tools & Technologies
